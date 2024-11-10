@@ -1,0 +1,22 @@
+.nav-bar {
+    background-color: #d5d8dc;
+    height: 30px;
+    width: 100%;
+    color: #000;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+
+}
+
+    .nav-btn {
+    border: 1px solid black;
+    padding: 5px;
+    margin-right: 5px;
+
+}
+    
+    .nav-btn:hover {
+    cursor: pointer;
+    background-color: #a6acaf; 
+   }

@@ -1,0 +1,19 @@
+#wrapper {
+    border: 1px solid grey;
+    margin: 30px auto;
+    width: 50%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+h3 {
+    padding: 0px 20px;
+}
+
+ul {
+    padding-inline-start: 25px;
+}
+
+ul li {
+    list-style: none;
+}
